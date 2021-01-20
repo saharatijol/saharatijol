@@ -1,5 +1,5 @@
 <h1 align="left">Hi ya'll 👋</h1>
-<h3 align="left">Passionate about learning🌱. Our ability to share knowledge and experiences drives me and always be looking for a larger room to be around great people. I’m seeking opportunities to shift into the software and web development industry.</h3>
+<h3 align="left">Passionate about learning the latest and greatest technologies🌱. I'm a software developer based in San Antonio, TX. I am working on some side projects, learning a couple new dishes, and staying caffeinated.</h3>
 
 - 🔭 I’m currently working on a full-stack application called ChowNow with our team! Check us out [here](https://github.com/chow-now/capstone)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sahara.tijol@gmail.com**
 
-- ⚡ Fun fact **I am a night owl.🦉**
+- ⚡ Fun fact: I am a night owl.🦉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,5 @@
-<h1 align="left">Hi ya'll 👋, I'm Sahara</h1>
+<h1 align="left">Hi ya'll 👋</h1>
+<h1 align="left">I'm Sahara</h1>
 <h3 align="left">Passionate about learning🌱. Our ability to share knowledge and experiences drives me and always be looking for a larger room to be around great people. I’m seeking opportunities to shift into the software and web development industry.</h3>
 
 - 🔭 I’m currently working on a full-stack application called ChowNow with our team! Check us out [here](https://github.com/chow-now/capstone)

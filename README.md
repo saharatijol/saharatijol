@@ -1,9 +1,11 @@
 <h1 align="left">Hi ya'll 👋, I'm Sahara</h1>
 <h3 align="left">Passionate about learning🌱. Our ability to share knowledge and experiences drives me and always be looking for a larger room to be around great people. I’m seeking opportunities to shift into the software and web development industry.</h3>
 
-- 🔭 I’m currently working on **a full-stack application called ChowNow with our team! Check us out** [here](https://github.com/chow-now/capstone)
+- 🔭 I’m currently working on a full-stack application called ChowNow with our team! Check us out [here](https://github.com/chow-now/capstone)
 
-- 🌱 I’m currently learning **ReactJS and Gastby. Also, diving deep into building custom Rest APIs**
+- 🌱 I’m currently learning ReactJS and Gastby. Also, diving deep into building custom Rest APIs
+
+- 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me **sahara.tijol@gmail.com**
 

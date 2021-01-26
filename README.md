@@ -1,9 +1,9 @@
 <h1 align="left">Hi ya'll 👋</h1>
 <p align="left">Passionate about learning the latest and greatest technologies🌱. I'm a software developer based in San Antonio, TX. I am working on some side projects, learning a couple new dishes, and staying caffeinated.</p>
 
-- 🔭 I’m currently working on a full-stack application called ChowNow with our team! Check us out [here](https://github.com/chow-now/capstone)
+- 🔭 I’m currently working on a full-stack application called [ChowNow](https://github.com/chow-now/capstone) with our team! Check us out [here](https://chownow.xyz/)
 
-- 🌱 I’m currently learning ReactJS and Gastby. Also, diving deep into building custom Rest APIs
+- 🌱 I’m currently learning Java and Spring Framework. Also, diving deep into building custom Rest APIs
 
 - 💬 Ask me about anything, I am happy to help
 

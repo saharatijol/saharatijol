@@ -35,6 +35,6 @@
 </a>
 <br>
 <a href="https://github.com/saharatijol">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatijol&layout=compact&theme=vue-dark />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatijol&layout=compact/>
 </a>
 

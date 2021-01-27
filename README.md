@@ -26,6 +26,10 @@
 ## &#x1f4c8; GitHub Stats
 <br>
 
+<a href="https://github.com/saharatijol/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saharatijol" width=400/>
+</a>  
+
 <a href="https://github.com/saharatijol">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatijol&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>

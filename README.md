@@ -27,7 +27,7 @@
 <br>
 
 <a href="https://github.com/saharatijol/github-readme-streak-stats">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=saharatijol"/>
+    <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=saharatijol&theme=vue-dark"/>
 </a>  
 <br>
 <a href="https://github.com/saharatijol">

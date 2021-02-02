@@ -64,6 +64,6 @@
 </a>
 <br>
 <a href="https://github.com/saharatijol">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatijol&layout=compact&title_color=41B883&text_color=ffffff&icon_color=4AB197&bg_color=273749" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatijol&layout=compact&title_color=C692E9&text_color=A6ABCC&icon_color=C692E9&bg_color=282D3E" />
 </a>
 

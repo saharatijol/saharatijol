@@ -1,11 +1,11 @@
 ![Sahara's GitHub Banner](./assets/gif-banner.gif)
 
-## Hi ya'll 👋
+### Hi ya'll 👋
 <p align="left">Passionate about learning the latest and greatest technologies🌱. I'm a software developer based in San Antonio, TX. I am working on some side projects, learning a couple new dishes, and staying caffeinated.</p>
 
 - 🔭 I’m currently working on a full-stack application called [ChowNow](https://github.com/chow-now/capstone) with our team! Check our live project [here](https://chownow.xyz/)
 
-- 🌱 I’m currently learning Java and Spring Framework. Also, diving deep into building custom Rest APIs
+- 🌱 I’m currently learning Java and Spring Framework. Also, diving deep into building custom REST APIs
 
 - 💬 Ask me about anything, I am happy to help
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: I am a night owl.🦉
 
-## 	🔗 Let's connect
+### 	🔗 Let's connect
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/stijol/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/stijol/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sahara_tijol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sahara_tijol" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 <br>
 
 
-## 💼 Languages and Tools
+### 💼 Skills and Tools
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -51,10 +51,6 @@
     </a>
 </p>
 <br>
-
-## &#x1f4c8; GitHub Stats
-<br>
-
 <a href="https://github.com/saharatijol/github-readme-streak-stats">
     <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=saharatijol&theme=material-palenight"/>
 </a>  

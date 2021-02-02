@@ -1,4 +1,4 @@
-[![GitHub Banner](./assets/gif-banner.gif)]
+![GitHub Banner](./assets/gif-banner.gif)
 
 ## Hi ya'll 👋
 <p align="left">Passionate about learning the latest and greatest technologies🌱. I'm a software developer based in San Antonio, TX. I am working on some side projects, learning a couple new dishes, and staying caffeinated.</p>

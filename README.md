@@ -59,7 +59,7 @@
 </a>
 <br>
 <a href="https://github.com/saharatijol">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?user=saharatijol&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Sahara's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saharatijol&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Sahara's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/saharatijol">

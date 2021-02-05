@@ -54,7 +54,7 @@
     </a>
 </p>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saharatijol)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saharatijol&theme=material-palenight)]
   <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=saharatijol&theme=material-palenight"/>
 <br>
 <a href="https://github.com/saharatijol">

@@ -1,6 +1,6 @@
 ![Sahara's GitHub Banner](./assets/gif-banner.gif)
 
-### Hi ya'll 👋
+## Hi ya'll 👋
 <p align="left">Passionate about learning the latest and greatest technologies🌱. I'm a software developer based in San Antonio, TX. I am working on some side projects, learning a couple new dishes, and staying caffeinated.</p>
 
 - 🔭 I’m currently working on a full-stack application called [ChowNow](https://github.com/chow-now/capstone) with our team! Check our live project [here](https://chownow.xyz/)
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: I am a night owl.🦉
 
-### 	🔗 Let's connect
+## 	🔗 Let's connect
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/stijol/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/stijol/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sahara_tijol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sahara_tijol" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 <br>
 
 
-### 💼 Skills and Tools
+## 💼 Skills and Tools
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a full-stack application called [ChowNow](https://github.com/chow-now/capstone) with our team! Check our live project [here](https://chownow.xyz/)
 
-- 🌱 I’m currently learning Java and Spring Framework. Also, diving deep into building custom REST APIs
+- 🌱 I’m currently learning Javascript and React. Also, diving deep into building custom REST APIs
 
 - 💬 Ask me about anything, I am happy to help
 

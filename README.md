@@ -58,6 +58,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saharatijol&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Sahara's GitHub Stats" />
 </a>
 <br>
+<br>
 <a href="https://github.com/saharatijol">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatijol&layout=compact&title_color=C692E9&text_color=A6ABCC&icon_color=C692E9&bg_color=282D3E" />
 </a>

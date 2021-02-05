@@ -54,9 +54,7 @@
     </a>
 </p>
 <br>
-<p>
-    <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=saharatijol&theme=material-palenight"/>
-</p>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=saharatijol&theme=material-palenight"/>
 <br>
 <a href="https://github.com/saharatijol">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saharatijol&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Sahara's GitHub Stats" />

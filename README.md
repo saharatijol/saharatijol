@@ -16,7 +16,7 @@
 ## 	🔗 Let's connect
 <p align="left">
 <a href="https://www.linkedin.com/in/stijol/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/stijol/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sahara_tijol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sahara_tijol" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sahara_tijol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sahara_tijol" height="30" width="40" /></a>
 </p>
 <br>
 

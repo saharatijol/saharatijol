@@ -3,8 +3,8 @@
 ## Hi ya'll 👋
 <p align="left">Passionate about learning the latest and greatest technologies🌱. I'm a software developer based in Austin, TX. I am working on some side projects, learning a couple of new dishes, and staying caffeinated.</p>
 
-- 🌱 I’m learning about data structures and algorithms, and software architectures. Also, diving deep into building custom REST APIs
-
+- 🌱 I’m learning about data structures and algorithms, and software architectures.
+- Also, diving deep into building custom REST APIs
 - 📫 How to reach me **sahara.tijol@gmail.com**
 
 

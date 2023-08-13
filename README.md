@@ -1,17 +1,12 @@
 ![Sahara's GitHub Banner](./assets/gif-banner.gif)
 
 ## Hi ya'll 👋
-<p align="left">Passionate about learning the latest and greatest technologies🌱. I'm a software developer based in San Antonio, TX. I am working on some side projects, learning a couple new dishes, and staying caffeinated.</p>
+<p align="left">Passionate about learning the latest and greatest technologies🌱. I'm a software developer based in Austin, TX. I am working on some side projects, learning a couple of new dishes, and staying caffeinated.</p>
 
-- 🔭 I’m currently working on a full-stack application called [ChowNow](https://github.com/chow-now/capstone) with our team! Check our live project [here](https://chownow.xyz/)
-
-- 🌱 I’m currently learning Javascript and React. Also, diving deep into building custom REST APIs
-
-- 💬 Ask me about anything, I am happy to help
+- 🌱 I’m learning about data structures and algorithms, and software architectures. Also, diving deep into building custom REST APIs
 
 - 📫 How to reach me **sahara.tijol@gmail.com**
 
-- ⚡ Fun fact: I am a night owl.🦉
 
 ## 	🔗 Let's connect
 <p align="left">

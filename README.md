@@ -10,8 +10,10 @@
 
 ## 	🔗 Let's connect
 <p align="left">
-<a href="https://www.linkedin.com/in/stijol/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/stijol/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahara_tijol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sahara_tijol" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stijol/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/stijol/"/></a>
+<a href="mailto:sahara.tijol@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/sahara_tijol" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@sahara_tijol"/></a>
+<a href="https://www.codewars.com/users/saharatijol" target="blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="@sahara_tijol"/></a>
 </p>
 <br>
 

@@ -1,11 +1,13 @@
 ![Sahara's GitHub Banner](./assets/gif-banner.gif)
 
-## Hi ya'll 👋
-<p align="left">Passionate about learning the latest and greatest technologies🌱. I'm a software developer based in Austin, TX. I am working on some side projects, learning a couple of new dishes, and staying caffeinated.</p>
+## Hi ya'll, I'm Sahara👋
+<p align="left">I’m a software developer based in Austin, TX who codes because it’s fun. Programming feels like solving puzzles, and I love the challenge it brings.</p>
 
-- 🌱 I’m learning about data structures and algorithms, and software architectures.
-- Also, diving deep into building custom REST APIs
-- 📫 How to reach me **sahara.tijol@gmail.com**
+<p align="left">Right now, I’m learning more about Python, Java, and machine learning while working on side projects that keep things interesting.</p>
+
+<p align="left">When I’m not coding, you’ll probably find me trying out new recipes, planning my next fishing trip, or sipping on way too much coffee. ☕</p>
+
+📫 How to reach me **sahara.tijol@gmail.com**
 
 
 ## 	🔗 Let's connect
